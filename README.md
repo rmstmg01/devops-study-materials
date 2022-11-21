@@ -1,2 +1,2 @@
 # DevOps Study Materials
-### This is a collection of ebooks, cheatsheets related to DevOps which are freely available over the internet.
+### This is a collection of ebooks and cheatsheets related to DevOps which are freely available over the internet.
